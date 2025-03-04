@@ -1,7 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "artifact": "https://bcinsider-fvh2ekdjecfjd6gk.b02.azurefd.net/sandbox/26.0.30643.30956/de",
   "runs-on": "self-hosted",
   "gitHubRunner": "self-hosted",
   "CICDPushBranches": [
