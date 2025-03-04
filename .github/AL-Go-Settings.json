@@ -22,6 +22,6 @@
     }
   ],
   "artifactDownloadTimeout": 1500,
-  "artifact": 26.0.30643.30956/de,
+  "artifact": "26.0.30643.30956/de",
   "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0"
 }
