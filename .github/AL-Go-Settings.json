@@ -9,7 +9,7 @@
   ],
   "versionStrategy": "+16",
   "cacheKeepDays": 3,
-  "BcContainerHelperVersion": "preview",
+  "BcContainerHelperVersion": "latest",
   "ConditionalSettings": [
     {
       "branches": [
