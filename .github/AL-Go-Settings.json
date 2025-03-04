@@ -1,8 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "runs-on": "self-hosted",
-  "gitHubRunner": "self-hosted",
   "CICDPushBranches": [
     "main",
     "test"
